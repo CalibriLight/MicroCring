@@ -1,4 +1,4 @@
-
+# AYO GUYS I DONT WRITE REDME, IT IS JUST MAKECODE LOOOOOOL
 > Open this page at [https://calibrilight.github.io/microcring/](https://calibrilight.github.io/microcring/)
 
 ## Использовать это расширение
